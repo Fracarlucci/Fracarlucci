@@ -10,7 +10,7 @@
 ### My Stats:
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fracarlucci)](https://git.io/streak-stats)-->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fracarlucci&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fracarlucci&theme=dark)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fracarlucci&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fracarlucci)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fracarlucci&layout=donut&theme=dark)
