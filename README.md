@@ -45,6 +45,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="50"/>&nbsp;
 </div>
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="50"/>&nbsp;
+</div>
+
 ### My Stats:
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fracarlucci)](https://git.io/streak-stats)-->
