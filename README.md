@@ -30,14 +30,16 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="html" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="50"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typeScript" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="angular" alt="angular" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50"/>&nbsp;
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="50"/>&nbsp;
@@ -48,6 +50,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Aws" alt="Aws" width="50"/>&nbsp;
 </div>
 
 ### My Stats:
