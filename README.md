@@ -70,6 +70,9 @@ Hi! I'm Francesco, a Computer Science and Engineering student at the University 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fracarlucci)](https://git.io/streak-stats)-->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fracarlucci&theme=dark)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fracarlucci&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fracarlucci)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fracarlucci&layout=donut&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fracarlucci)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fracarlucci&layout=donut&theme=dark)-->
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
