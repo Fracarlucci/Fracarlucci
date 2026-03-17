@@ -50,6 +50,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="angular" alt="angular" width="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="angular" width="50"/>&nbsp;
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="50"/>&nbsp;
@@ -70,8 +71,8 @@
 
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Fracarlucci&theme=dark)
-  ![Top Languages](./profile/top-langs.svg)
   <!--
+  ![Top Languages](./profile/top-langs.svg)
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fracarlucci)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fracarlucci&layout=donut&theme=dark)
     ![Stats](./profile/stats.svg)
