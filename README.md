@@ -2,7 +2,19 @@
   
   # About me
   
-  Hi! I'm Francesco, currently I'm a Software engineer at [MemorAIz](https://github.com/memoraiz-ai)
+  Hi! I'm Francesco, a software engineer at [MemorAIz](https://github.com/memoraiz-ai) in Bologna.<br>
+  I build full-stack web apps with language models inside.
+
+  **[Website](https://fracarlucci.github.io)** &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/francesco-carlucci1/) &nbsp;|&nbsp; [Email](mailto:fra.carlucci.02@gmail.com)
+
+  ## Projects
+
+  | Project | What it is |
+  | --- | --- |
+  | [Teseo](https://teseo.memoraiz.com) | Latin and Ancient Greek translation for students, 100,000+ users. I rebuilt it for my master's thesis. |
+  | [PingoPongo](https://pingo-pongo-memo.vercel.app) | Our office ping pong ladder, with Glicko ratings, seasons and push notifications. |
+  | [Ætas](https://aetas.vercel.app) | If your life were a clock, what time would it be? A website and a Chrome extension. |
+  | [Car showroom](https://github.com/Fracarlucci/car-showroom) | A 3D car showroom in the browser, built with Three.js. |
   
   <!-- ![UnderSmashGIF](https://github.com/user-attachments/assets/b5feee69-aceb-49a7-b84a-145574e07bfa) -->
   
@@ -50,7 +62,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" alt="vue" width="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="angular" alt="angular" width="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="angular" width="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="50"/>&nbsp;
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="50"/>&nbsp;
