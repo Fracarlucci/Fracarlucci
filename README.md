@@ -2,7 +2,7 @@
   
   # About me
   
-  Hi! I'm Francesco, a Computer Science and Engineering student at the University of Bologna.
+  Hi! I'm Francesco, currently I'm a Software engineer at [MemorAIz](https://github.com/memoraiz-ai)
   
   <!-- ![UnderSmashGIF](https://github.com/user-attachments/assets/b5feee69-aceb-49a7-b84a-145574e07bfa) -->
   
